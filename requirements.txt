@@ -8,3 +8,5 @@ fastapi
 uvicorn
 websockets
 streamlit-autorefresh
+plotly
+matplotlib
